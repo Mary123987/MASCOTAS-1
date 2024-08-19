@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROGRAMACIÓN 1\\MASCOTAS\\MASCOTAS.csproj": {}
+    "d:\\PROGRAMACIÓN 1\\MASCOTAS\\MASCOTAS.csproj": {}
   },
   "projects": {
-    "D:\\PROGRAMACIÓN 1\\MASCOTAS\\MASCOTAS.csproj": {
+    "d:\\PROGRAMACIÓN 1\\MASCOTAS\\MASCOTAS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROGRAMACIÓN 1\\MASCOTAS\\MASCOTAS.csproj",
+        "projectUniqueName": "d:\\PROGRAMACIÓN 1\\MASCOTAS\\MASCOTAS.csproj",
         "projectName": "MASCOTAS",
-        "projectPath": "D:\\PROGRAMACIÓN 1\\MASCOTAS\\MASCOTAS.csproj",
+        "projectPath": "d:\\PROGRAMACIÓN 1\\MASCOTAS\\MASCOTAS.csproj",
         "packagesPath": "C:\\Users\\maryr\\.nuget\\packages\\",
-        "outputPath": "D:\\PROGRAMACIÓN 1\\MASCOTAS\\obj\\",
+        "outputPath": "d:\\PROGRAMACIÓN 1\\MASCOTAS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maryr\\AppData\\Roaming\\NuGet\\NuGet.Config"

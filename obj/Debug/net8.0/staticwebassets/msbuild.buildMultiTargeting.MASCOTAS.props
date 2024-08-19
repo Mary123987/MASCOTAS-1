@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MASCOTAS.props" />
+</Project>
