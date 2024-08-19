@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\images\\ODDIE.JPG"
     },
     {
+      "Id": "d:\\PROGRAMACIÓN 1\\MASCOTAS\\wwwroot\\images\\viaje.jpg",
+      "PackagePath": "staticwebassets\\images\\viaje.jpg"
+    },
+    {
       "Id": "d:\\PROGRAMACIÓN 1\\MASCOTAS\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
