@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HxCi/+8zLyN5V/FR7/Tuu3f+0i4lGfRUG5ShYf9XFzY=",
+  "Hash": "2mGEyFI3PFhA4GZKqC2f8YsI9zOEC5SeUFIUPC7lFPA=",
   "Source": "MASCOTAS",
   "BasePath": "_content/MASCOTAS",
   "Mode": "Default",
@@ -110,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\ODDIE.JPG"
+    },
+    {
+      "Identity": "d:\\PROGRAMACIÓN 1\\MASCOTAS\\wwwroot\\images\\viaje.jpg",
+      "SourceId": "MASCOTAS",
+      "SourceType": "Discovered",
+      "ContentRoot": "d:\\PROGRAMACIÓN 1\\MASCOTAS\\wwwroot\\",
+      "BasePath": "_content/MASCOTAS",
+      "RelativePath": "images/viaje.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\viaje.jpg"
     },
     {
       "Identity": "d:\\PROGRAMACIÓN 1\\MASCOTAS\\wwwroot\\js\\site.js",
